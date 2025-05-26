@@ -1,4 +1,4 @@
-baseURL: "http://zaeemalehsan.com" 
+baseURL: "https://zaeemalehsan.com" 
 title: Zaeem-Al Ehsan
 theme: PaperMod
 
@@ -55,7 +55,7 @@ params:
     profileMode:
           enabled: true
           title: Zaeem-Al Ehsan
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I am a Public Policy (Economics concentration) Ph.D student at Duke University"
           imageUrl: "zaeemalehsan.jpeg"
           imageWidth: 160
           imageHeight: 160
