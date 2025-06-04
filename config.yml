@@ -54,7 +54,7 @@ params:
             - name: Papers
               url: papers/
             - name: Policy work
-              url: policywork/
+              url: policy/
             - name: OP-EDs
               url: oped/
             - name: Ph.D applications
